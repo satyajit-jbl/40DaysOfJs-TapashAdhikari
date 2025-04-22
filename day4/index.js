@@ -1,0 +1,1 @@
+console.log("day 04 in js")
